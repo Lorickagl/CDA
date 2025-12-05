@@ -30,7 +30,17 @@
                     <input type="text" name="prenom" id="prenom" required />
                     <input type="email" name="email" id="email" />
                     <input type="submit" value="Validez ! " />
+                                        <p id="message">
+                        Votre demande est bien envoyée !
+                    </p>
+                    <p id="message">
+                        Vos informations ne sont pas correctes
+                    </p>
                 </form>
             </section>
+            <footer>
+        <p>Page web faite par <?php NOM ?></p>
+    </footer>
+    <script src="/index.js"></script>
 </body>
 </html>
