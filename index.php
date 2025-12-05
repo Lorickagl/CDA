@@ -23,10 +23,10 @@
                 <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium error in nihil et quis modi
                     aliquam illo totam vero reiciendis, aspernatur qui voluptatum atque illum autem maxime vel sit.
                     Iure.</p>
-                    <p></p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, blanditiis fugit, libero reprehenderit iusto iste nulla adipisci aliquid corporis dolor qui recusandae, eum neque. Labore aspernatur possimus autem dolore atque.</p>
             </section>
              <section id="sect2" class="sect2">
-                <img src="" alt="Image Random">
+                <img src="/Image/images.jpg" alt="Image Random">
                 <form id="formulaire">
                     <input type="text" name="nom" id="nom" required />
                     <input type="text" name="prenom" id="prenom" required />
@@ -35,14 +35,12 @@
                                         <p id="message">
                         Votre demande est bien envoyée !
                     </p>
-                    <p id="message">
-                        Vos informations ne sont pas correctes
-                    </p>
                 </form>
             </section>
+            </main>
             <footer>
         <p>Page web faite par <?php NOM ?></p>
     </footer>
-    <script src="/index.js"></script>
+    <script src="index.js"></script>
 </body>
 </html>
