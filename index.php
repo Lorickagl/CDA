@@ -21,6 +21,16 @@
                 <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium error in nihil et quis modi
                     aliquam illo totam vero reiciendis, aspernatur qui voluptatum atque illum autem maxime vel sit.
                     Iure.</p>
+                    <p></p>
+            </section>
+             <section id="sect2" class="sect2">
+                <img src="" alt="Image Random">
+                <form id="formulaire">
+                    <input type="text" name="nom" id="nom" required />
+                    <input type="text" name="prenom" id="prenom" required />
+                    <input type="email" name="email" id="email" />
+                    <input type="submit" value="Validez ! " />
+                </form>
             </section>
 </body>
 </html>
