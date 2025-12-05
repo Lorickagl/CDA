@@ -9,21 +9,18 @@
    <header>
         <nav>
             <ul>
-                <div class="nav-custom">
-                    <div>
-                        <li>
-                            <a href="">Page d'accueil</a>
-                        </li>
-                    </div>
-                    <div>
-                        <li>
-                            <a href="">Page de contact</a>
-                        </li>
-                    </div>
-                </div>
+                <li><a href="#sect1">Accueil</a></li>
+                <li><a href="#sect2">Contactez-moi</a></li>
             </ul>
         </nav>
-    </header>
-    
+</header>
+<main>
+        <div>
+            <section id="sect1" class="sect1">
+                <img src="/Image/images.jpg" alt="img_sect1">
+                <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium error in nihil et quis modi
+                    aliquam illo totam vero reiciendis, aspernatur qui voluptatum atque illum autem maxime vel sit.
+                    Iure.</p>
+            </section>
 </body>
 </html>
