@@ -6,6 +6,24 @@
     <title>Document</title>
 </head>
 <body>
+   <header>
+        <nav>
+            <ul>
+                <div class="nav-custom">
+                    <div>
+                        <li>
+                            <a href="">Page d'accueil</a>
+                        </li>
+                    </div>
+                    <div>
+                        <li>
+                            <a href="">Page de contact</a>
+                        </li>
+                    </div>
+                </div>
+            </ul>
+        </nav>
+    </header>
     
 </body>
 </html>
