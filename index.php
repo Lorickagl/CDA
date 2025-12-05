@@ -29,7 +29,7 @@
                 <img src="/Image/images.jpg" alt="Image Random">
                 <form id="formulaire">
                     <input type="text" name="nom" id="nom" required />
-                    <input type="text" name="prenom" id="prenom" required />
+                    <input type="text" name="prenom" id="prenom" />
                     <input type="email" name="email" id="email" />
                     <input type="submit" value="Validez ! " />
                                         <p id="message">
@@ -39,8 +39,8 @@
             </section>
             </main>
             <footer>
-        <p>Page web faite par <?php NOM ?></p>
+        <p>Page web faite par <?php echo $prenom[0]?></p>
     </footer>
-    <script src="index.js"></script>
+    <script src="/index.js"></script>
 </body>
 </html>
